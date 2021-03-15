@@ -1,29 +1,32 @@
+/*bonus changes*/
 main , footer {
     margin-left: 20%;
     margin-right: 20%;
 }
+/*--bonus changes*/
 
-
+/*top logo*/
 header {
     height: 170px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
 }
-
 #top-logo {
     width: 200px;
     height: 80px;
     margin-left: 20%;
     margin-top: 90px;
 }
+/*--top logo*/
 
+/*credits*/
 .grey-text {
     color: #808080;
 }
-
 #blue-text {
     color: #72c9ef;
 }
+/*--credits*/
 
 #photo-description {
     font-size: 14px;
@@ -33,21 +36,22 @@ header {
     background-color: yellow;
 }
 
+/*table*/
 th {
     text-align: left;
     background-color: #4ea0ff;
     color: white;
 }
-
 .short-text-column {
     width: 25%;
     text-align: left;
 }
-
 .blue-tr {
     background-color: #b1e5f2;
 }
+/*--table*/
 
+/*footer*/
 #monitor {
     width: 312px;
     height: 208px;
@@ -55,7 +59,6 @@ th {
     color: white;
     font-size: 20px;
 }
-
 #graph {
     width: 312px;
     height: 208px;
@@ -63,3 +66,4 @@ th {
     color: white;
     font-size: 20px;
 }
+/*--footer*/
